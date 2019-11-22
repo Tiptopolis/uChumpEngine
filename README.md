@@ -27,7 +27,7 @@ Guice- for dependency injection
 
 Ashley and Artemis- ECS experimentation
 
-===============================================================================
+=============================================================================
 
 4-function Calculator GUI - done, expand to full-feature basic calculator
 World-Map- working on handler to control camera movement, working examples exist to copy
