@@ -10,7 +10,7 @@ towards a grand vision of a world simulation. I learned Java in my spare time at
 any obvious beginner nitpicks. If it works, it works, though I'll gladly take any advice for improvement
 and optimization.
 
-Github is the logical next-step on this path.
+Github was the logical next-step on this path.
 
 I am trying to avoid prebuilt libraries, though there are obvious advantages for some.
 I will occasionally adopt one to study and experiment with its features before trying to 
