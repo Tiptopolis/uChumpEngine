@@ -7,8 +7,8 @@ personal learning path.
 
 I'll have you know that I've no idea what I'm doing at any point in time, but that I am working slowly 
 towards a grand vision of a world simulation. I learned Java in my spare time at work, so please point out 
-any obvious beginner nitpicks. Save the esoteric wizardry for the clergy, thanks. If it works, it works, 
-though I'll gladly take any advice for improvement and optimization.
+any obvious beginner nitpicks. If it works, it works, though I'll gladly take any advice for improvement
+and optimization.
 
 Github is the logical next-step on this path.
 
