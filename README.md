@@ -17,6 +17,7 @@ I will occasionally adopt one to study and experiment with its features before t
 copy it, or at least streamline its usage in the scope of my projects.
 
 I havn't given much thought to end-user utility, so more power to you if you can make use of it.
+Some of this is direct copypasta from other places.
 
 using:
 Gdx- for the basic openGL stuff & input features
