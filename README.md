@@ -29,3 +29,8 @@ Ashley and Artemis- ECS experimentation
 
 4-function Calculator GUI - done, expand to full-feature basic calculator
 World-Map- working on handler to control camera movement, working examples exist to copy
+
+
+
+
+I also need to learn how to better use GitHub for this.
